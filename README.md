@@ -43,7 +43,7 @@ This project analyzes 9,600 orders from a supply chain dataset to identify deliv
 
 ## 📷 Sample Dashboard Screenshot
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Capture.PNG)
 ## 📈 Visualizations Included
 
 - Delivered vs Undelivered Orders
